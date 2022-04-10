@@ -1,9 +1,13 @@
-# Online banking system
-Team name: NHK
+<p>
+<h1 align = "center" > <strong>🌉THF Bank🌉 </strong> <br>
+<h3 align = "center">Team :- NHK
+ <hr>
+</p>
 
 ## 📝About
 Making an online banking website with a easy to use UI. Where everyone can an make an account and login where user can deposit money,transfer money from one account to another and even keep thier money in a fixed deposit.
 
+## Features
 ## 💻Tech Stack
 
 *Client:* React, Css

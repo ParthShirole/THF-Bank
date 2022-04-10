@@ -24,7 +24,25 @@ npm i
 
 ## 📸Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+The Home page
+
+![App Screenshot](https://github.com/ParthShirole/THF-Bank/blob/main/client/src/assets/Homepage.jpg)
+
+Register
+
+![App Screenshot](https://github.com/ParthShirole/THF-Bank/blob/main/client/src/assets/Register.jpg)
+
+Login
+
+![App Screenshot](https://github.com/ParthShirole/THF-Bank/blob/main/client/src/assets/Login.jpg)
+
+Profile
+
+![App Screenshot](https://github.com/ParthShirole/THF-Bank/blob/main/client/src/assets/Profile.jpg)
+
+Transfer
+
+![App Screenshot](https://github.com/ParthShirole/THF-Bank/blob/main/client/src/assets/Transfer.jpg)
 
 
 ## 🧑‍💻Team members

@@ -10,11 +10,11 @@ const Content = () => {
                 <div className="left">
                     <SmallHead title={"The Hassle Free Bank"} identifier={'Before'}/>
                     <h1>
-                        We offer the best services to our customers
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                        We offer the best services to our customers from the convenience of their homes.
+                        An one stop website for everything banking
                     </h1>
                     <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi quisquam odio alias eligendi ad molestiae sequi doloribus nemo aliquid! Molestiae, reprehenderit? Doloremque fugiat neque aspernatur ipsam expedita laboriosam mollitia aut.
+                       Just register yourself and gain access to features like transferring funds, depositing money and creating fixed deposits 
                     </p>
                 </div>
                 <div className="right">

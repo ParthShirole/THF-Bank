@@ -28,7 +28,7 @@ Making an online banking website with a easy to use UI. Where everyone can an ma
  - MongoDB
 
 
-##  🛠Prerequisites
+##  🛠 Prerequisites
 To install the required files run the following commands:
 ```
 git clone https://github.com/ParthShirole/THF-Bank.git.  
@@ -39,7 +39,7 @@ cd server
 npm i
 ```
  
-## 🎲 Starting the website
+## 🌐 Starting the website
 1. Clone the repo using 
  ```
   cd client

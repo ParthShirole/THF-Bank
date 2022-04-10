@@ -17,7 +17,7 @@ Making an online banking website with a easy to use UI. Where everyone can an ma
 
 ## 💻Tech Stack
 
-*Client:* React, Css
+*Client:* React, Css, Bootstrap
 
 *Server:* Nodejs, Express, MongoDB
 

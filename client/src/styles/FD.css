@@ -1,0 +1,39 @@
+.bghfd{
+    background-image: url("../assets/mloan.jpg");
+    background-size: cover;
+    width: 100%;
+    color: white;
+    height: 80vh;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+}
+
+.bghfd h1{
+    padding-top: 0.5em;
+}
+
+
+.leftc{
+    padding: 15%;
+}
+
+.rightc img{
+    position: absolute;
+    top: 35%;
+    left: 15%;
+    height: 50%;
+}
+
+@media screen and (max-width: 650px){
+    .bghfd{
+        grid-template-columns: repeat(1,1fr);
+    }
+
+    .rightc{
+        display: none;
+    }
+
+    .leftc{
+        padding: 8%;
+    }
+}

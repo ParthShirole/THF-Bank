@@ -1,0 +1,29 @@
+.gridpf{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.image{
+    border-radius: 50% ;
+}
+
+.mt-4 {
+    background-color: gray;
+    color: black;
+}
+
+.my-4 {
+    color: black;
+}
+
+.display-4 {
+    color: black;
+}
+
+.c2 {
+    color: black;
+}
+
+.profile-info {
+    color: black;
+}

@@ -1,0 +1,18 @@
+.transactionbody{
+    background: rgb(32,31,50);
+    background: linear-gradient(90deg, rgba(32,31,50,1) 0%, rgba(255,255,255,1) 100%);
+    padding-bottom: 2em;
+}
+
+h2{
+    padding-top: 1em;
+    text-align: center;
+}
+
+.leftcard{
+    color: green;
+}
+
+.rightcard{
+    color: red;
+}

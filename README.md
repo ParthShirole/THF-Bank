@@ -1,5 +1,5 @@
 <p>
-<h1 align = "center" > <strong>🌉THF Bank🌉 </strong> <br>
+<h1 align = "center" > <strong>🏦THF Bank🏦 </strong> <br>
 <h3 align = "center">Team :- NHK
  <hr>
 </p>
@@ -8,6 +8,13 @@
 Making an online banking website with a easy to use UI. Where everyone can an make an account and login where user can deposit money,transfer money from one account to another and even keep thier money in a fixed deposit.
 
 ## Features
+ 
+ - Register Yourself
+ - View balance and fixed deposit status
+ - Transfer funds between accounts
+ - Create a fixed deposit
+ - Deposit balance
+
 ## 💻Tech Stack
 
 *Client:* React, Css
@@ -25,12 +32,28 @@ cd ..
 cd server
 npm i
 ```
+ 
+## 🎲 Starting the website
+1. Clone the repo using 
+ ```
+  cd client
+  npm start
+ ```
+ In another terminal,
+ ```
+  cd server
+  npm start
+```
+
+## Future Prospects
+ - Applying for loans
+ - Verifying user via OTP
 
 ## 📸Screenshots
 
 The Home page
 
-![App Screenshot](https://github.com/ParthShirole/THF-Bank/blob/main/client/src/assets/Home.jpeg)
+![App Screenshot](https://github.com/ParthShirole/THF-Bank/blob/main/client/src/assets/Homepage.jpg)
 
 Register
 

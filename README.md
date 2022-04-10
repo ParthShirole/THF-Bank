@@ -59,7 +59,7 @@ npm i
 
 The Home page
 
-![App Screenshot](https://github.com/ParthShirole/THF-Bank/blob/main/client/src/assets/Homepage.jpg)
+![App Screenshot](https://github.com/ParthShirole/THF-Bank/blob/main/client/src/assets/Home.jpeg)
 
 Register
 
